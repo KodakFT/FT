@@ -7,7 +7,7 @@ in depth insights
 Make sure to use pip in order to have these libraries
 librosa
 scipy 
-matplotlib.pyplot 
+matplotlib
 numpy
 and --upgrade librosa matplotlib
 
